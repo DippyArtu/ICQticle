@@ -2,3 +2,4 @@ flask
 PyQt5
 requests
 pyjokes
+gunicorn
