@@ -1,7 +1,7 @@
 import time
 import pyjokes
 
-help_ = "This is the helpful the /help command\n available commands: \n /joke — it's not worth it"
+help_ = "This is the helpful the /help command\n available commands: \n /joke — not worth it"
 
 # info_ = "Your name is {name}\n There are {cntUsers} users in chat\n To see chat users type /users".format(name = data['name'], cntUsers = statusInfo['users_count'])
 
