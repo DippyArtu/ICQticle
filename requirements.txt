@@ -1,6 +1,0 @@
-Flask==1.1.2
-gunicorn==20.0.4
-pyjokes==0.6.0
-PyQt5==5.15.0
-PyQt5-sip==12.8.1
-QtPy==1.9.0
