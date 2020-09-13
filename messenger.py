@@ -59,7 +59,7 @@ class Messenger(Ui_MainWindow, QtWidgets.QMainWindow):
             self.text_input.clear()
             self.text_input.repaint()
         else:
-            self.messages_browser.append('Error sending a message, server is offline')
+            self.messages_browser.append('Error sending a message')
             self.messages_browser.append('')
             self.messages_browser.repaint()
 
