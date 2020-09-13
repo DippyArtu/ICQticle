@@ -4,7 +4,7 @@
 ---
 
 <h1 id="icqticle">ICQticle</h1>
-<p><img src="https://github.com/DippyArtu/ICQticle/blob/master/pics/msg.jpg" alt="ui"></p>
+<p><img src="https://github.com/DippyArtu/ICQticle/blob/master/pics/msg.png" alt="ui"></p>
 <h3 id="a-super-primitive-python-messenger-with-chat-bots-support">A super primitive Python messenger with chat-bots support</h3>
 <p>This is more of a “ok cool i sort of know how to do this now” excercise, rather than a serious project, still tho.</p>
 <p>ICQticle is a fully functional messenger which can be used for things like, sending messages and recieving messages (surprise surprise). This project also has the infrostructure needed to implement a chat-bot of any level of sophistication, although right now, there’s only one which makes awful jokes.</p>
