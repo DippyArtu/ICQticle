@@ -9,7 +9,7 @@
 <p>This is more of an “ok cool i sort of know how to do this now” exercise, rather than a serious project, still tho.</p>
 <p>ICQticle is a fully functional messenger that can be used for things like, sending messages and receiving messages (surprise surprise). This project also has the infrastructure needed to implement a chat-bot of any level of sophistication, although right now, there’s only one which makes awful jokes.</p>
 <p>Other than that, there is message pagination, so that the client doesn’t crash, some basic protection (client doesn’t crash when the server is offline) as well as key signal processing (you can send messages with a return button).</p>
-<p>I did try to deploy the server on a Heroku platform and a messenger as an app, both successfully, but because I have no plans for actually keeping this thing alive, if you’ll want to try this out, you’ll have to deploy everything locally from your machine, soz.</p>
+<p>I did try to deploy the server on a Heroku platform and a messenger as an app, both successfully, but because I have no plans for actually keeping this thing alive, i took it down. Thus, if you’ll want to try this out, you’ll have to deploy everything locally from your machine, soz.</p>
 <h2 id="how-to">How to</h2>
 <ul>
 <li>
