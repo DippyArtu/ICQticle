@@ -64,4 +64,4 @@ def messages():
     return {'messages': database[after_id:after_id + limit]}
 
 
-app.run(threaded=True, port=5000)
+app.run()

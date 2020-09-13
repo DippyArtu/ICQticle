@@ -10,7 +10,7 @@ def bot(bot_command, database):
     if bot_command == '/help':
         message = help_
     elif bot_command == '/joke':
-        message = str(pyjokes.get_joke(language='en', category='all'))
+        message = str(pyjokes.get_joke(language='en', category='neutral'))
     # elif bot_command == '/info':
     #     message = info_
     else:

@@ -65,6 +65,6 @@ class Messenger(Ui_MainWindow, QtWidgets.QMainWindow):
 
 
 app = QtWidgets.QApplication([])
-window = Messenger('ADRESS_GOES_HERE')  # -------------------- CHANGE THIS TO YOUR SERVER'S ADDRESS!!!
+window = Messenger('http://86c5ccf47316.ngrok.io')  # -------------------- CHANGE THIS TO YOUR SERVER'S ADDRESS!!!
 window.show()
 app.exec_()
